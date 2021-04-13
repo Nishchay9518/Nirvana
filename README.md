@@ -19,6 +19,6 @@
 * ### [React.js](https://reactjs.org/)
     * ###### [react-hooks](https://reactjs.org/docs/hooks-intro.html/)
     * ###### [context API](https://reactjs.org/docs/context.html)
-    * ###### [nodemon](https://www.npmjs.com/package/nodemon)
+    * ###### [express & nodemon](https://scotch.io/courses/build-your-first-nodejs-website/using-express-and-nodemon)
     * ###### [css](https://css-tricks.com/)
    
